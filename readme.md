@@ -7,4 +7,6 @@
 참고 영상
 https://www.youtube.com/watch?v=a5c9ku-_fok
 github을 기반으로한 온라인 코드 리뷰 방법 - 코드스쿼드
-![1569650512](https://user-images.githubusercontent.com/55933601/65830235-8ac58000-e2e8-11e9-8fff-455fa7db4eaa.jpg)
+
+![cat](https://user-images.githubusercontent.com/55933601/65830651-489e3d80-e2ec-11e9-9895-5ad2603f6baf.jpg)
+다들 화이팅!
